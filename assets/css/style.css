@@ -1,0 +1,27 @@
+header {
+  border: 10px solid lightblue;
+  background-color: blue;
+  padding:1px;
+  background-clip: content-box;
+  color: white;
+  margin: 1px;
+}
+main{
+    border: 10px solid yellow;
+  background-color: blue;
+  padding:100px;
+  background-clip: content-box;
+  color: white;
+  margin: 150px;
+}
+
+nav{  
+    border: 10px solid yellow;
+  background-color: blue;
+  padding:100px;
+  background-clip: content-box;
+  color: white;
+  margin: 150px;
+}
+
+
